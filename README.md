@@ -1,4 +1,5 @@
 The data I used is e-commerce retail data in Brazil, consisting of 4 datasets.
+
 The project includes the following main parts:
 - Segment customers based on their characteristics and shopping behavior through the use of the RFM (Recency, Frequency, Monetary) model.
 - Create specific customer segments such as best customers, loyal customers, potential customers, new customers, promising customers, and customers at risk of leaving. This helps businesses apply appropriate marketing and customer care strategies for each segment, to increase the effectiveness of customer outreach and retention.
